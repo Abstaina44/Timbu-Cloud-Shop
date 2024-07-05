@@ -42,3 +42,34 @@ To get a local copy up and running, follow these steps:
 ## Project Structure
 
 The project is structured as follows:
+
+
+
+A collaborative project to implement a Timbu Cloud Shop page using Next.js and Tailwind CSS.
+
+## Features
+
+- Pixel-perfect design based on Figma
+- Responsive design for desktop, tablet, and mobile
+- Product display with descriptions and images
+- Static checkout page
+
+## Technologies
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/implement-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/implement-feature`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
